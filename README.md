@@ -16,7 +16,9 @@ The schema includes the following tables:
 - An **Order** can have many **OrderItems**.
 - An **OrderItem** is associated with one **Product**.
 
+## Schema Diagram
 
+![Schema Diagram](schema-diagram.png)
 
 ## SQL File
 
